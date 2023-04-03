@@ -1,6 +1,5 @@
 # tdviewer-py
 `com.square_enix.android_googleplay.PTD`のデータを表示します。
-現在準備中。
 画像と音声に対応予定。
 
 必要なもの:
@@ -12,3 +11,6 @@
 * sounddevice
 * soundfile
 * pysimplegui
+
+## 依存ライブラリのインストール
+pip install UnityPy sounddevice soundfile pysimplegui
